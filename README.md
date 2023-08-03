@@ -1,7 +1,7 @@
 # Sales-Insights-of-AtliQ-Hardware-using-Power-BI
 The Sales Insights of AtliQ Hardware is a project that involves the analysis of the sales data of a hardware company named AtliQ. The project includes data cleaning and integration, which was done using MySQL, a popular relational database management system.
 
-## DashBoard:
+## DashBoard: 
 ![image](https://github.com/PurnaChandar26/Sales-Insights-of-AtliQ-Hardware-using-Power-Bi/assets/97793147/85f490be-c317-448e-b3dc-6178907d7ebd)
 
 The objective of this project is to visualize the sales data of AtliQ Hardware and gain insights into their revenue, sales quantity, revenue by market, sales quantity by market, revenue trend, and other relevant metrics. To achieve this objective, the project utilizes Power BI, a powerful business analytics tool that enables the creation of interactive and visually appealing reports and dashboards.
