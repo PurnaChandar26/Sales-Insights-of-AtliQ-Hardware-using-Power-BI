@@ -11,5 +11,3 @@ The project begins with data cleaning, where the raw sales data is processed to 
 The visualizations in Power BI include revenue by product, revenue by market, sales quantity by product, sales quantity by market, revenue trend over time, and other relevant metrics. The visualizations are interactive, allowing the user to explore the data and gain insights into the sales performance of AtliQ Hardware.
 
 Overall, the Sales Insights of AtliQ Hardware project provides valuable insights into the sales performance of a hardware company, which can be used to inform strategic decisions and improve business operations.
-
-
