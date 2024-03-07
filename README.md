@@ -12,3 +12,4 @@ The visualizations in Power BI include revenue by product, revenue by market, sa
 
 Overall, the Sales Insights of AtliQ Hardware project provides valuable insights into the sales performance of a hardware company, which can be used to inform strategic decisions and improve business operations.
  
+ 
